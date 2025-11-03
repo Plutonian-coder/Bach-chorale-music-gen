@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+music21
+numpy
+pandas
+kagglehub
+pyphen
